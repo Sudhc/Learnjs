@@ -50,8 +50,23 @@ console.log(x)  //decrease the value by 1
 // console.log(6 == "6")true  //it will not compare datatype
 //===it will compare only values it calculate value and datatype 
 // console.log(6 === "6") false  // it will compare values and also datatypes of values
+// console.log(4>3) //true
+// console.log(4>=4) //true
 //console.log(4!=6)  //!= not equal
-//** is used for power
+//** is used for power of
+// console.log(4**4)
+  //Logical Operators
+//   && AND  -- if any one is not true then it becomes false 
+// || OR -- if any one is true then it becomes true
+
+// console.log((3==3) && (4>3))//true and true becomes true
+// console.log((3>5) && (4>3))//false and true becomes true
+
+// console.log((3>5) || (4>3))  //true if any one is true then it becomes true
+
+//Assignment operators
+
+
 // ====================================================================================================================
 //Ternary operators or Conditional
 // stu1 = "sudheer"
